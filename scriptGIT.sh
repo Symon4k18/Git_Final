@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Affichage de l'adresse IP avant login
 
 	echo IP : \4{eth0} >> /etc/issue
